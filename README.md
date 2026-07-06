@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1539-kth-missing-positive-number) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
