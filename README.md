@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0796-rotate-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0014-longest-common-prefix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
