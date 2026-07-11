@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
