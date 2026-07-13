@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0151-reverse-words-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
