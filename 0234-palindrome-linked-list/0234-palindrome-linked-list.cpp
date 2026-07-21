@@ -33,7 +33,7 @@ ListNode * reversell(ListNode * head){
             fast=fast->next->next;
         }
         ListNode * temp=slow;
-        slow=reversell(temp);
+        slow=reversell(slow);
         bool pall=1;
         while(slow){
             if (slow->val!=head->val){
