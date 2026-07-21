@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0062-unique-paths) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0094-binary-tree-inorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
