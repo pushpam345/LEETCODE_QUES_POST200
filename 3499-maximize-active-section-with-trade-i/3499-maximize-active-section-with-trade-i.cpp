@@ -25,12 +25,13 @@ public:
             if (one) {
                 if (s[i] == '1') {
                     one++;
-                    continue;
-                }
 
-                // rz = 1;
-                rz = 1;
-                one = 0;
+                } else {
+
+                    // rz = 1;
+                    rz = 1;
+                    one = 0;
+                }
 
             } else {
                 if (s[i] == '1') {
