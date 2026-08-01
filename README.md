@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
