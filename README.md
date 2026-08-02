@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1331-rank-transform-of-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
