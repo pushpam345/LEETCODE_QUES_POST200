@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
 | ------- |
