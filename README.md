@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -284,11 +289,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -305,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
