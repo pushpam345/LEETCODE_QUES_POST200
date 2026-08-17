@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0682-baseball-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
