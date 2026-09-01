@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0561-array-partition) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
