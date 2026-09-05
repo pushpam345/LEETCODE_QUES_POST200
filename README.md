@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0486-predict-the-winner) |
