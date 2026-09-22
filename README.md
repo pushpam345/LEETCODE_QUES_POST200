@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0796-rotate-string) |
+| [0942-di-string-match](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0877-stone-game) |
+| [0942-di-string-match](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0942-di-string-match) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1331-rank-transform-of-an-array) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
