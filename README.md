@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0410-split-array-largest-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0160-intersection-of-two-linked-lists) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0836-rectangle-overlap) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
