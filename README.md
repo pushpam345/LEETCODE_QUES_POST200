@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
