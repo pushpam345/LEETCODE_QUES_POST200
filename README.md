@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3904-smallest-stable-index-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
