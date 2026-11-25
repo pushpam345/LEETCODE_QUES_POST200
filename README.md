@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3904-smallest-stable-index-ii](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -444,4 +447,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3898-find-the-degree-of-each-vertex) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pushpam345/LEETCODE_QUES_POST200/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
